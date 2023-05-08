@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "831241564349",
+    "project_id": "e-cestagro",
+    "storage_bucket": "e-cestagro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831241564349:android:fb259b5475c9c1578647d4",
+        "android_client_info": {
+          "package_name": "com.mdev.ecesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831241564349-rfr9ovq8nv90o4ovqpg97ckudh0rg7oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mdev.ecesta",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "831241564349-7u17ocp1e4d6oo9l588si8p00mvhnmk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqEh119nnLyye9DDyY71L5lbsDsfLLco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831241564349-7mq47eqis14m2i6ap73kfh6sgrinl3d3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831241564349-6v45ag2u6ncn5tb7r5vc7k4k3p49e8j9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mdev.ecestagro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831241564349:android:1183cdaf0327a6468647d4",
+        "android_client_info": {
+          "package_name": "com.mdev.ecestagro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831241564349-rfoelu2cad9l6922uortn059p3o796s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mdev.ecestagro",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "831241564349-7u17ocp1e4d6oo9l588si8p00mvhnmk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqEh119nnLyye9DDyY71L5lbsDsfLLco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831241564349-7mq47eqis14m2i6ap73kfh6sgrinl3d3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831241564349-6v45ag2u6ncn5tb7r5vc7k4k3p49e8j9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mdev.ecestagro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "categorias_menu",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "negocios_id",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "id_menu",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "menu_produtos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "id_negocio",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "categorias_menu",
+          "arrayConfig": "CONTAINS"
+        }
+      ]
+    }
+  ]
+}
